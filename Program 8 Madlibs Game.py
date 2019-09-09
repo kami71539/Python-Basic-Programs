@@ -1,0 +1,6 @@
+colour=input("")
+flower=input("")
+alphabet=input("")
+print("roses are",colour)
+print(flower,"are blue")
+print("I love" ,alphabet)
